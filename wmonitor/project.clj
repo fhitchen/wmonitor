@@ -6,6 +6,6 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [clj-http "0.7.7"]
                  [org.clojure/data.json "0.2.3"]]
-  :main woopramonitor.queries
-  :aot  [woopramonitor.queries])
+  :main wmonitor.queries
+  :aot  [wmonitor.queries])
   
